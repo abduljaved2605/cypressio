@@ -1,0 +1,10 @@
+{
+    "testFiles": "**/*.feature",
+    "devDependencies": {
+        "cypress": "^4.5.0",
+        "cypress-cucumber-preprocessor": "^2.3.1"
+    },
+    "cypress-cucumber-preprocessor": {
+        "nonGlobalStepDefinitions": true
+    }
+}
