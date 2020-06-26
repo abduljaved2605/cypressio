@@ -4,9 +4,9 @@
 3. Launch Terminal :
 4.
 
-npm install cypress --save-dev
+#npm install cypress --save-dev
 
-npm install --save-dev cypress-cucumber-preprocessor
+#npm install --save-dev cypress-cucumber-preprocessor
 
 npx cypress open
 
